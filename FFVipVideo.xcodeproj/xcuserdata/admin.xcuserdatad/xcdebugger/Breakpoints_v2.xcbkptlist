@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SafariExtension/SafariExtensionViewController.swift"
+            timestampString = "553409913.697328"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "SafariExtensionViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "variable initialization expression of SafariExtension.SafariExtensionViewController.vipListMgr : SafariExtension.FFVipList"
+                  moduleName = "SafariExtension"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Data/macWorkspace/FFVipVideo/SafariExtension/SafariExtensionViewController.swift"
+                  timestampString = "553411095.778662"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SafariExtension.SafariExtensionViewController.vipListMgr.getter : SafariExtension.FFVipList"
+                  moduleName = "SafariExtension"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Data/macWorkspace/FFVipVideo/SafariExtension/SafariExtensionViewController.swift"
+                  timestampString = "553411095.781098"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "109">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SafariExtension.SafariExtensionViewController.init(nibName: Swift.Optional&lt;__ObjC.NSNib.Name&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; SafariExtension.SafariExtensionViewController"
+                  moduleName = "SafariExtension"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Data/macWorkspace/FFVipVideo/SafariExtension/SafariExtensionViewController.swift"
+                  timestampString = "553411095.7832561"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "167">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SafariExtension.SafariExtensionViewController.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;SafariExtension.SafariExtensionViewController&gt;"
+                  moduleName = "SafariExtension"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Data/macWorkspace/FFVipVideo/SafariExtension/SafariExtensionViewController.swift"
+                  timestampString = "553411095.785081"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "117">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
